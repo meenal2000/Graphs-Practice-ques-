@@ -1,5 +1,5 @@
-time - O(4^(N^2))
-space - O(4^(N^2))
+time - O(3^(N^2))
+space - O(3^(N^2))
 
 void solve(vector<vector<int>> &m,int n, int i,int j,string s,vector<vector<int>> vis)
     {
