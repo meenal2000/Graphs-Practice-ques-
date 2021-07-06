@@ -1,5 +1,5 @@
-time - O(3^(n^2))
-space - O(3^(n^2))
+time - O(m*n)
+space - O(n*m)
 void solve(vector<vector<int>>&image, int sr, int sc, int r, int c, int newColor, int oldColor)
     {
         
