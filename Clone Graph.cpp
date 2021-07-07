@@ -1,5 +1,7 @@
 time - O(n+m)
 space - O(n)
+    
+// u can do the same using bfs too
 
 unordered_map<int,Node*> mp; // value and address of new node
 Node* solve(Node* node)
